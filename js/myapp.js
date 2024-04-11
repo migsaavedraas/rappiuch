@@ -3,8 +3,8 @@ const $password = $("#password");
 
 /* CREDENCIALES VERDADERAS */
 const credenciales = {
-    usuario: "MIGSAAVEDRAAS",
-    pass: "10042024"
+    usuario: "UCH2024",
+    pass: "123456"
 };
 
 $("#login").on("click", function(){
